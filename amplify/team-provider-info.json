@@ -1,0 +1,23 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-drawing-game-test-124952-authRole",
+            "UnauthRoleArn": "arn:aws:iam::554506746475:role/amplify-drawing-game-test-124952-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::554506746475:role/amplify-drawing-game-test-124952-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-drawing-game-test-124952-deployment",
+            "UnauthRoleName": "amplify-drawing-game-test-124952-unauthRole",
+            "StackName": "amplify-drawing-game-test-124952",
+            "StackId": "arn:aws:cloudformation:eu-west-1:554506746475:stack/amplify-drawing-game-test-124952/367cfcd0-5f98-11ea-a6cb-0abd335268a4",
+            "AmplifyAppId": "d21n1zmqdrinvn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d21n1zmqdrinvn",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
